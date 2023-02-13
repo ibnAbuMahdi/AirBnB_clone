@@ -17,6 +17,7 @@ Some of the commands available are:
 - update
 - destroy
 - count
+- all
 
 And as part of the implementation of the command line interpreter coupled with the backend and file storage system, the folowing actions can be performed:
 -   Creating new objects (ex: a new User or a new Place)
