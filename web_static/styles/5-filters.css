@@ -29,7 +29,6 @@
 .container .filters .amenities {
 	height: 100%;
 	width: 25%;
-	display: inline-block;
 }
 
 .container .filters .locations {
