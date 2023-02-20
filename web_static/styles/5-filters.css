@@ -29,17 +29,20 @@
 .container .filters .amenities {
 	height: 100%;
 	width: 25%;
+	display: inline;
 }
 
 .container .filters .locations {
 	border-right: 1px solid #DDDDDD;
 }
 
-.container .filters .locations h3 {
+.container .filters .locations h3,
+.container .filters .amenities h3{
 	font-weight: 600;
 }
 
-.container .filters .locations h4 {
+.container .filters .locations h4,
+.container .filters .amenities h3{
 	font-weight: 400;
 	font-size: 14px;
 }
