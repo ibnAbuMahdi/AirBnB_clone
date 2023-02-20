@@ -29,7 +29,7 @@
 .container .filters .amenities {
 	height: 100%;
 	width: 25%;
-	display: inline;
+	display: inline-block;
 }
 
 .container .filters .locations {
@@ -42,7 +42,7 @@
 }
 
 .container .filters .locations h4,
-.container .filters .amenities h3{
+.container .filters .amenities h4{
 	font-weight: 400;
 	font-size: 14px;
 }
