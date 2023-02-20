@@ -2,8 +2,7 @@ body header {
 	background: white url("images/logo.png") 20px 50% no-repeat;
 	height: 70px;
 	width: 100%;
-	border-bottom: 1px;
-       	border-color: #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
 	padding-left: 50px;
 }
 
