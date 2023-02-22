@@ -56,26 +56,26 @@
 }
 
 .number_rooms {
-	background: url("../images/rooms_icon.png") no-repeat;
+	background: url("../images/rooms_icon.png") top no-repeat;
 	width: 100px;
 	display: inline-block;
 	padding-top: 3.5em;
 }
 
 .number_bathrooms {
-	background: url("../images/bath_icon.png") no-repeat;
+	background: url("../images/bath_icon.png") top no-repeat;
 	width: 100px;
 	display: inline-block;
 	padding-top: 3.5em;
 }
 
 .user {
-	margin-left: 5px;
+	margin-top: 5px;
 	text-align: left;
 }
 
 .description {
-	margin-left: 5px;
+	margin-top: 5px;
 	text-align: left;
 }
 
