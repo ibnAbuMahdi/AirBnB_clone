@@ -17,12 +17,14 @@
 	border: 1px solid #FF5A5F;
 	border-radius: 4px;
 	display: inline-block;
+	text-align: center;
 }
 
 .places article h2 {
 	font-size: 30px;
 	position: relative;
 	margin: 0;
+	display: inline-block;
 }
 
 .price_by_night {
@@ -32,39 +34,49 @@
 	min-width: 60px;
 	height: 60px;
 	font-size: 30px;
+	margin: 0.1em;
+	margin-bottom: 6px;
+	display: inline-block;
+	position: relative;
 	float: right;
-	margin: 1em;
 }
 
 .information {
 	height: 80px;
-	border: top bottom 1px solid #DDDDDD;
+	border-top: 1px solid #DDDDDD;
+	border-bottom: 1px solid #DDDDDD;
+	clear: both;
 }
 
 .max_guest {
-	background: url("../images/guest_icon.png") no-repeat;
+	background: url("../images/guest_icon.png") top no-repeat;
 	width: 100px;
 	display: inline-block;
+	padding-top: 3.5em;
 }
 
 .number_rooms {
 	background: url("../images/rooms_icon.png") no-repeat;
 	width: 100px;
 	display: inline-block;
+	padding-top: 3.5em;
 }
 
 .number_bathrooms {
 	background: url("../images/bath_icon.png") no-repeat;
 	width: 100px;
 	display: inline-block;
+	padding-top: 3.5em;
 }
 
 .user {
 	margin-left: 5px;
+	text-align: left;
 }
 
 .description {
 	margin-left: 5px;
+	text-align: left;
 }
 
 
